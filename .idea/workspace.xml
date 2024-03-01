@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c8d756fd-3c87-4b01-882a-84c81f75937b" name="Changes" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Backtracking/AllCombinationsOfSizeK.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Backtracking/GeneratePermutations.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Backtracking/KnightTour.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Backtracking/MColoringProblem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Backtracking/NQueens.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Backtracking/RatInAMaze.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Backtracking/Sudoku.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Backtracking/SumOfSubset.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Backtracking/generateParentheses.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Bit-Manipulation/BinaryCountSetBits.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Bit-Manipulation/GenerateSubSets.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Bit-Manipulation/GrayCodes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Bit-Manipulation/IsPowerOfTwo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Bit-Manipulation/IsPowerofFour.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Bit-Manipulation/LogTwo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Bit-Manipulation/NextPowerOfTwo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Bit-Manipulation/SetBit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Bit-Manipulation/UniqueElementInAnArray.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Cache/LFUCache.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Cache/LRUCache.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Cache/Memoize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Cellular-Automata/ConwaysGameOfLife.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Cellular-Automata/Elementary.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Ciphers/AffineCipher.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Ciphers/Atbash.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Ciphers/CaesarCipher.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Ciphers/KeyFinder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Ciphers/KeywordShiftedAlphabet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Ciphers/MorseCode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Ciphers/ROT13.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Ciphers/VigenereCipher.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Ciphers/XORCipher.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Conversions/ArbitraryBase.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Conversions/ArrayBufferToBase64.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Conversions/Base64ToArrayBuffer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Conversions/BinaryToDecimal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Conversions/BinaryToHex.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Conversions/DateDayDifference.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Conversions/DateToDay.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Conversions/DecimalToBinary.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Conversions/DecimalToHex.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Conversions/DecimalToOctal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Conversions/DecimalToRoman.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Conversions/HexToBinary.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Conversions/HexToDecimal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Conversions/HexToRGB.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Conversions/LengthConversion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Conversions/LitersToImperialGallons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Conversions/LitersToUSGallons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Conversions/LowerCaseConversion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Conversions/MeterToFeetConversion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Conversions/OctToDecimal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Conversions/OuncesToKilograms.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Conversions/RGBToHex.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Conversions/RailwayTimeConversion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Conversions/RgbHslConversion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Conversions/RgbHsvConversion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Conversions/RomanToDecimal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Conversions/TemperatureConversion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Conversions/TitleCaseConversion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Conversions/UpperCaseConversion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Data-Structures/Array/LocalMaximomPoint.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Data-Structures/Array/NumberOfLocalMaximumPoints.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Data-Structures/Array/QuickSelect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Data-Structures/Array/Reverse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Data-Structures/Graph/Graph.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Data-Structures/Graph/Graph2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Data-Structures/Graph/Graph3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Data-Structures/Heap/BinaryHeap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Data-Structures/Heap/KeyPriorityQueue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Data-Structures/Heap/MinPriorityQueue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Data-Structures/Linked-List/AddTwoNumbers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Data-Structures/Linked-List/CycleDetection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Data-Structures/Linked-List/CycleDetectionII.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Data-Structures/Linked-List/DoublyLinkedList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Data-Structures/Linked-List/MergeTwoSortedLinkedLists.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Data-Structures/Linked-List/ReverseSinglyLinkedList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Data-Structures/Linked-List/SinglyCircularLinkedList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Data-Structures/Linked-List/SinglyLinkedList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Data-Structures/Queue/CircularQueue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Data-Structures/Queue/Queue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Data-Structures/Queue/QueueUsing2Stacks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Data-Structures/Stack/EvaluateExpression.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Data-Structures/Stack/Stack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Data-Structures/Stack/StackES6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Data-Structures/Tree/AVLTree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Data-Structures/Tree/BinarySearchTree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Data-Structures/Tree/SegmentTree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Data-Structures/Tree/Trie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Data-Structures/Vectors/Vector2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Dynamic-Programming/Abbreviation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Dynamic-Programming/CatalanNumbers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Dynamic-Programming/ClimbingStairs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Dynamic-Programming/CoinChange.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Dynamic-Programming/EditDistance.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Dynamic-Programming/FastFibonacciNumber.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Dynamic-Programming/FibonacciNumber.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Dynamic-Programming/FindMonthCalendar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Dynamic-Programming/KadaneAlgo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Dynamic-Programming/LevenshteinDistance.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Dynamic-Programming/LongestCommonSubsequence.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Dynamic-Programming/LongestIncreasingSubsequence.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Dynamic-Programming/LongestPalindromicSubsequence.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Dynamic-Programming/LongestValidParentheses.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Dynamic-Programming/MaxNonAdjacentSum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Dynamic-Programming/MaxProductOfThree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Dynamic-Programming/MinimumCostPath.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Dynamic-Programming/NumberOfSubsetEqualToGivenSum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Dynamic-Programming/RodCutting.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Dynamic-Programming/Shuf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Dynamic-Programming/SieveOfEratosthenes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Dynamic-Programming/Sliding-Window/HouseRobber.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Dynamic-Programming/Sliding-Window/LongestSubstringWithoutRepeatingCharacters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Dynamic-Programming/Sliding-Window/MaxConsecutiveOnes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Dynamic-Programming/Sliding-Window/MaxConsecutiveOnesIII.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Dynamic-Programming/Sliding-Window/PermutationinString.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Dynamic-Programming/SudokuSolver.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Dynamic-Programming/TrappingRainWater.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Dynamic-Programming/TribonacciNumber.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Dynamic-Programming/UniquePaths.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Dynamic-Programming/UniquePaths2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Dynamic-Programming/ZeroOneKnapsack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Geometry/Circle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Geometry/Cone.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Geometry/ConvexHullGraham.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Geometry/Pyramid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Geometry/Sphere.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Graphs/BellmanFord.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Graphs/BinaryLifting.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Graphs/BreadthFirstSearch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Graphs/BreadthFirstShortestPath.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Graphs/ConnectedComponents.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Graphs/Density.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Graphs/DepthFirstSearchIterative.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Graphs/DepthFirstSearchRecursive.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Graphs/Dijkstra.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Graphs/DijkstraSmallestPath.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Graphs/FloydWarshall.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Graphs/Kosaraju.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Graphs/KruskalMST.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Graphs/LCABinaryLifting.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Graphs/NodeNeighbors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Graphs/NumberOfIslands.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Graphs/PrimMST.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Hashes/MD5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Hashes/SHA1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Hashes/SHA256.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/Abs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/AliquotSum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/Area.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/ArithmeticGeometricMean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/ArmstrongNumber.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/AutomorphicNumber.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/AverageMean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/AverageMedian.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/BinaryConvert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/BinaryExponentiationIterative.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/BinaryExponentiationRecursive.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/BinomialCoefficient.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/BisectionMethod.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/CheckKishnamurthyNumber.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/CircularArc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/CoPrimeCheck.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/CollatzSequence.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/Coordinate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/CountNumbersDivisible.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/DecimalExpansion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/DecimalIsolate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/DegreeToRadian.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/Determinant.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/EuclideanDistance.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/EulerMethod.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/EulersTotient.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/EulersTotientFunction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/ExponentialFunction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/ExtendedEuclideanGCD.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/Factorial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/Factors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/FareyApproximation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/FermatPrimalityTest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/Fibonacci.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/FigurateNumber.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/FindHcf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/FindLcm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/FindMaxRecursion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/FindMin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/FindMinIterator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/FriendlyNumbers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/GetEuclidGCD.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/GridGet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/HexagonalNumber.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/IntToBase.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/IsDivisible.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/IsEven.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/IsOdd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/IsPronic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/IsSquareFree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/JugglerSequence.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/LeapYear.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/LinearSieve.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/LiouvilleFunction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/LucasSeries.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/Mandelbrot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/MatrixExponentiationRecursive.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/MatrixMultiplication.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/MeanAbsoluteDeviation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/MeanSquareError.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/MidpointIntegration.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/MobiusFunction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/ModularArithmetic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/ModularBinaryExponentiationRecursive.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/NumberOfDigits.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/Palindrome.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/ParityOutlier.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/PascalTriangle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/PerfectCube.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/PerfectNumber.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/PerfectSquare.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/PermutationAndCombination.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/PiApproximationMonteCarlo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/Polynomial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/Pow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/PowLogarithmic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/PrimeCheck.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/PrimeFactors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/QuadraticRoots.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/RadianToDegree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/ReverseNumber.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/ReversePolishNotation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/RowEchelon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/ShorsAlgorithm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/SieveOfEratosthenes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/SieveOfEratosthenesIntArray.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/Signum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/SimpsonIntegration.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/Softmax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/SquareRoot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/SquareRootLogarithmic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/SumOfDigits.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/SumOfGeometricProgression.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/TwinPrime.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/TwoSum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/Volume.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/WhileLoopFactorial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/ZellersCongruenceAlgorithm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Maths/isPalindromeIntegerNumber.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Navigation/Haversine.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Project-Euler/Problem001.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Project-Euler/Problem002.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Project-Euler/Problem003.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Project-Euler/Problem004.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Project-Euler/Problem005.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Project-Euler/Problem006.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Project-Euler/Problem007.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Project-Euler/Problem008.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Project-Euler/Problem009.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Project-Euler/Problem010.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Project-Euler/Problem011.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Project-Euler/Problem012.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Project-Euler/Problem013.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Project-Euler/Problem014.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Project-Euler/Problem015.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Project-Euler/Problem016.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Project-Euler/Problem017.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Project-Euler/Problem018.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Project-Euler/Problem020.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Project-Euler/Problem021.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Project-Euler/Problem023.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Project-Euler/Problem025.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Project-Euler/Problem028.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Project-Euler/Problem035.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Project-Euler/Problem044.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Recursive/BinaryEquivalent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Recursive/BinarySearch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Recursive/EucledianGCD.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Recursive/Factorial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Recursive/FibonacciNumberRecursive.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Recursive/FloodFill.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Recursive/KochSnowflake.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Recursive/KochSnowflake.manual-test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Recursive/LetterCombination.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Recursive/Palindrome.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Recursive/PalindromePartitioning.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Recursive/Partition.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Recursive/SubsequenceRecursive.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Recursive/TowerOfHanoi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Search/BinarySearch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Search/ExponentialSearch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Search/FibonacciSearch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Search/InterpolationSearch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Search/JumpSearch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Search/LinearSearch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Search/Minesweeper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Search/QuickSelectSearch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Search/RabinKarp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Search/SlidingWindow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Search/StringSearch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Search/TernarySearch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Search/UnionFind.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Sorts/AlphaNumericalSort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Sorts/BeadSort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Sorts/BinaryInsertionSort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Sorts/BogoSort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Sorts/BubbleSort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Sorts/BucketSort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Sorts/CocktailShakerSort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Sorts/CombSort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Sorts/CountingSort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Sorts/CycleSort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Sorts/DutchNationalFlagSort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Sorts/FindSecondLargestElement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Sorts/FisherYatesShuffle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Sorts/FlashSort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Sorts/GnomeSort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Sorts/HeapSort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Sorts/HeapSortV2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Sorts/InsertionSort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Sorts/IntroSort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Sorts/MergeSort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Sorts/OddEvenSort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Sorts/PancakeSort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Sorts/PigeonHoleSort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Sorts/QuickSort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Sorts/QuickSortRecursive.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Sorts/RadixSort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Sorts/SelectionSort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Sorts/ShellSort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Sorts/SimplifiedWiggleSort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Sorts/StoogeSort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Sorts/SwapSort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Sorts/TimSort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Sorts/TopologicalSort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/String/AlphaNumericPalindrome.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/String/AlternativeStringArrange.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/String/BoyerMoore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/String/CheckAnagram.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/String/CheckCamelCase.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/String/CheckExceeding.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/String/CheckFlatCase.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/String/CheckKebabCase.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/String/CheckPalindrome.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/String/CheckPangram.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/String/CheckPascalCase.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/String/CheckRearrangePalindrome.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/String/CheckSnakeCase.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/String/CheckWordOccurrence.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/String/CountLetters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/String/CountSubstrings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/String/CountVowels.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/String/CreatePermutations.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/String/DiceCoefficient.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/String/FirstUniqueCharacter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/String/FormatPhoneNumber.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/String/GenerateGUID.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/String/HammingDistance.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/String/IsPalindrome.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/String/KMPPatternSearching.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/String/LengthofLongestSubstringWithoutRepetition.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/String/LevenshteinDistance.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/String/Lower.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/String/MaxCharacter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/String/MaxWord.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/String/PatternMatching.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/String/PercentageOfLetters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/String/PermutateString.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/String/ReverseString.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/String/ReverseWords.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/String/ScrambleStrings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/String/Upper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/String/ValidateCreditCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/String/ValidateEmail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/String/ZFunction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Timing-Functions/GetMonthDays.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Timing-Functions/IntervalTimer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Trees/BreadthFirstTreeTraversal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Trees/DepthFirstSearch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure/Trees/FenwickTree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScriptCourse.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LICENSE" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2d46M0OmSVAkG8wmTIODN1akPi1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/18112/OneDrive/Desktop/Java Script",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
+      <option name="appName" />
+      <option name="appServicePlanName" />
+      <option name="appServicePlanResourceGroup" />
+      <option name="appSettingsKey" value="02ab57a1-6faa-4122-aa3b-f6d4919f403b" />
+      <option name="artifact" />
+      <option name="debugOptions" />
+      <option name="deployment" />
+      <option name="deploymentStagingDirectoryPath" />
+      <option name="funcPath" />
+      <option name="functionHostArguments" />
+      <option name="hostJsonPath" />
+      <option name="insightsName" />
+      <option name="instrumentationKey" />
+      <option name="javaVersion" />
+      <option name="localSettingsJsonPath" />
+      <option name="moduleName" />
+      <option name="os" />
+      <option name="pricingTier" />
+      <option name="providerMap">
+        <map />
+      </option>
+      <option name="region" />
+      <option name="resourceGroup" />
+      <option name="stagingFolder" />
+      <option name="subscription" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8d756fd-3c87-4b01-882a-84c81f75937b" name="Changes" comment="" />
+      <created>1709254957121</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709254957121</updated>
+      <workItem from="1709254958521" duration="1240000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
+</project>
